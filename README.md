@@ -20,4 +20,4 @@ Fuli Yang · *Journal of Financial Reporting and Accounting* · published online
 
 **[Explore the research hub →](https://github.com/DrFuliyang/research)**
 
-[Public paper catalogue](https://github.com/DrFuliyang/research/blob/main/research/PAPERS.md) · [Research guide](https://github.com/DrFuliyang/research/blob/main/research/README.md) · [Repository directory](https://github.com/DrFuliyang/research/blob/main/REPOSITORIES.md)
+[Selected papers](https://github.com/DrFuliyang/research#selected-papers) · [Research guide](https://github.com/DrFuliyang/research/blob/main/research/README.md) · [Repository directory](https://github.com/DrFuliyang/research/blob/main/REPOSITORIES.md)
